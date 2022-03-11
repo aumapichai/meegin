@@ -1,0 +1,1104 @@
+body {
+  font-family: "Kanit", sans-serif;
+}
+
+.brand-image-amdin {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  opacity: unset !important;
+}
+
+.main-sidebar {
+  background: url(../../picture/wallpaperbetter.com_7680x4320.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+[class*="sidebar-dark-"] .sidebar a {
+  color: #ffffff;
+}
+
+[class*="sidebar-dark"] .user-panel {
+  border-bottom: 1px solid #ffffff;
+}
+
+[class*="sidebar-dark"] .brand-link {
+  border-bottom: 1px solid #ffffff;
+}
+
+.img-kitchen-nav {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.border-kitchen {
+  border-radius: 40px;
+  border: 2px solid #dbdbdb;
+  padding: 3px;
+  background: #ffffff;
+  box-shadow: 0 0 5px 0 #ececec;
+}
+
+.text-kitchen-1 {
+  font-size: 18px;
+  padding-right: 3px;
+  font-weight: 600;
+  color: #1a87a2;
+}
+
+.text-tatle-t {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.brder-mine-tatle {
+  height: 80px;
+  background: #838a90;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  padding: 0;
+}
+
+.brder-mine-tatle-2 {
+  height: 80px;
+  background: #838a90;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  padding: 0;
+}
+
+.brder-mine-tatle-2:hover {
+  border: 4px solid rgb(0, 102, 255);
+}
+
+.border-mine-4 {
+  border: 4px solid rgb(0, 102, 255);
+}
+
+.text-top-amdin {
+  font-size: 16px;
+  font-weight: 600;
+  color: #525252;
+}
+
+.text-bottom-amdin {
+  background: #229bb9;
+  border-radius: 4px;
+  padding: 3px 5px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+.btn-mine-5 {
+  box-shadow: 1px 0 0 0 #ffffff7d;
+  border: none;
+  border-radius: 0;
+}
+
+.text-list-what {
+  font-size: 14px;
+  color: white;
+  line-height: 16px;
+  margin-top: 3px;
+}
+
+.icon-list-admin-2 {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.active-a {
+  background-color: #3f7d41;
+}
+
+.text-total-price-total {
+  font-size: 18px;
+  color: white;
+  margin: 8px 5px;
+}
+
+.text-top-title-1 {
+  font-size: 14px;
+  font-weight: 600;
+  color: #393939;
+}
+
+.text-top-title-2 {
+  font-size: 16px;
+  color: #5f5f5f;
+}
+
+.status-food-order-admin {
+  background-color: #4caf50;
+  color: white;
+  padding: 0px 5px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.min-height-mine-admin {
+  height: calc(100vh - 400px);
+  overflow-y: auto;
+}
+
+.min-height-mine-admin::-webkit-scrollbar {
+  width: 0px;
+}
+
+.img-list-food-2 {
+  width: 80px;
+  height: 70px;
+  border-radius: 4px;
+  border: 2px solid #e7e7e7;
+}
+
+.img-product {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 2px solid #e6e6e6;
+}
+
+.img-category-food {
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+  border: 2px solid white;
+  box-shadow: 0 0 5px 0 #d0d0d0c4;
+}
+
+.img-list-food-1 {
+  width: 75px;
+  height: 70px;
+  border-radius: 3px;
+  border: 2px solid white;
+  box-shadow: 0 0 5px 0 #c0c0c075;
+  margin-right: 5px;
+}
+
+.system-rest-1 {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 8px 15px;
+  color: white;
+}
+
+.text-maname-food-1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #313131;
+  margin-left: 10px;
+}
+
+.border-mine-3 {
+  background: #ffffff;
+  border-radius: 4px;
+  margin-top: 8px;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+}
+
+.text-title-header {
+  font-size: 15px;
+  font-weight: 600;
+  color: #212121;
+}
+
+.bg-mine-2 {
+  background: #ffffff;
+  border-radius: 4px;
+  padding: 8px;
+  margin-top: 8px;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+}
+
+.text-zone {
+  font-size: 18px;
+  font-weight: 600;
+  color: #3d3d3d;
+  margin-left: 10px;
+}
+
+.text-title-zone {
+  font-size: 14px;
+  font-weight: 600;
+  color: #272727;
+}
+
+.text-title-zone-discription {
+  color: #595959;
+}
+
+.add-product {
+  display: none;
+}
+
+.invalid-mine {
+  border: 2px solid #ff3f3f;
+}
+
+.btn-hover:hover {
+  background-color: rgb(233, 233, 233);
+}
+
+.add_table {
+  display: none;
+}
+
+.link_customer_t {
+  font-size: 10px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.active-canecel-table {
+  background-color: rgb(90, 90, 90);
+  pointer-events: none;
+  box-shadow: 0 0 1px 0 #ffffff;
+}
+
+.text-title-header-payment {
+  font-size: 24px;
+  font-weight: 600;
+  width: 120px;
+  text-align: end;
+  padding-right: 8px;
+  color: #3b3b3b;
+}
+
+.text-unit-bath {
+  font-size: 24px;
+  font-weight: 600;
+  width: 150px;
+  text-align: end;
+  color: #3b3b3b;
+}
+
+.btn_money_1 {
+  cursor: pointer;
+  width: 30%;
+  text-align: center;
+  margin-right: 2px;
+  font-size: 22px;
+  font-weight: 700;
+  padding: 3px 0px;
+  border: 2px solid #c6c6c6;
+  border-radius: 50%;
+}
+
+.btn_money_1:last-child {
+  margin-right: 0px;
+}
+
+.btn_money_1:hover {
+  background-color: rgb(231, 231, 231);
+}
+
+.btn_money_2 {
+  cursor: pointer;
+  width: 30%;
+  text-align: center;
+  margin-right: 2px;
+  font-size: 22px;
+  font-weight: 700;
+  padding: 3px 0px;
+  border: 2px solid #c6c6c6;
+  border-radius: 4px;
+}
+
+.btn_money_2:last-child {
+  margin-right: 0px;
+}
+
+.btn_money_2:hover {
+  background-color: rgb(231, 231, 231);
+}
+
+.btn_money_3 {
+  cursor: pointer;
+  width: 45%;
+  text-align: center;
+  margin-right: 2px;
+  font-size: 22px;
+  font-weight: 700;
+  padding: 3px 0px;
+  border: 2px solid #c6c6c6;
+  border-radius: 4px;
+}
+
+.btn_money_3:last-child {
+  margin-right: 0px;
+}
+
+.btn_money_3:hover {
+  background-color: rgb(231, 231, 231);
+}
+
+.btn-money-add-4 {
+  width: 45%;
+  border-radius: 4px;
+  margin-right: 2px;
+  font-size: 22px;
+  font-weight: 500;
+  padding: 3px 0px;
+  background-color: #00a6ff;
+  border: 2px solid #00a6ff;
+  color: white;
+}
+
+.btn-money-add-4:hover {
+  background-color: #0092e0;
+  border: 2px solid #0092e0;
+}
+
+.btn-clear-plus-4 {
+  width: 45%;
+  border-radius: 4px;
+  margin-left: 2px;
+  font-size: 22px;
+  font-weight: 500;
+  padding: 3px 0px;
+  background-color: #ff7272;
+  border: 2px solid #ff7272;
+  color: white;
+}
+
+.btn-clear-plus-4:hover {
+  background-color: #ff5c5c;
+  border: 2px solid #ff5c5c;
+}
+
+.input_check_out {
+  width: calc(100% - 270px);
+  font-size: 22px;
+  font-weight: 700;
+  padding: 3px 0px;
+  text-align: end;
+  border: 2px solid #c6c6c6;
+  border-radius: 4px;
+  color: #3b3b3b;
+}
+
+.text-title-discription-2 {
+  color: #5e5e5e;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.btn-delete-employee {
+  padding: 2px 8px;
+  border-radius: 2px 0 0 2px;
+  background-color: #ff4355;
+  color: white;
+}
+
+.btn-edit-employee {
+  padding: 2px 8px;
+  border-radius: 0 2px 2px 0;
+  background-color: #ffb100;
+  color: white;
+}
+
+.btn-cancel-employee {
+  border-radius: 3px 0 0 3px;
+}
+
+.btn-save-employee {
+  border-radius: 0 3px 3px 0;
+}
+
+.add_employee {
+  display: none;
+}
+
+.text-color-modal {
+  color: #393939;
+  font-weight: 500 !important;
+}
+
+/* modal add order */
+
+.modal-mine-add-order {
+  max-width: 100% !important;
+  margin: 0;
+  height: 100%;
+}
+
+.modal-content-mine-add-order {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+}
+
+.btn-cancel-add-order {
+  width: 100%;
+  border-radius: 0;
+  height: 100%;
+  font-size: 14px;
+  background-color: #ff5454;
+  border: none;
+  color: white;
+  margin: 0;
+}
+
+.btn-clear-list-add-order {
+  width: 100%;
+  border-radius: 0;
+  height: 100%;
+  font-size: 14px;
+  background-color: #375bff;
+  border: none;
+  color: white;
+  margin: 0;
+}
+
+.btn-add-list-order {
+  width: 100%;
+  border-radius: 0;
+  height: 100%;
+  font-size: 14px;
+  background-color: #3ec05b;
+  border: none;
+  color: white;
+  margin: 0;
+}
+
+.add-order-icon {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.pr-mine-addorder {
+  padding: 0 1px 0 0;
+}
+
+.pr-mine-addorder2 {
+  padding: 0 1px 0 1px;
+}
+
+.pr-mine-addorder3 {
+  padding: 0 0 0 1px;
+}
+
+.border2-mine {
+  border: 1px solid #17a2b8;
+}
+
+.title-table-num {
+  font-size: 16px;
+  font-weight: 600;
+  color: #16537d;
+}
+
+.list-food-add-order {
+  height: calc(100% - 155px);
+  overflow-y: auto;
+}
+
+.btn-category-nav {
+  height: 100%;
+  border: none;
+  padding: 0;
+  text-align: center;
+  width: 110px;
+  color: #686868;
+  background-color: unset;
+}
+
+.add-order-active {
+  background-color: #51e7ff;
+  color: white;
+}
+
+.list-food-each-other {
+  height: calc(100% - 90px);
+  overflow-y: auto;
+  background-color: aliceblue;
+}
+
+.pr-mine-t-l {
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 10px;
+  margin: 0;
+}
+
+.pr-mine-b-r {
+  padding: 0 15px 15px 0;
+}
+
+.hove-mine {
+  position: relative;
+}
+
+.hove-mine:hover {
+  box-shadow: 0 0 3px 0 rgb(26, 163, 163);
+}
+
+.price-food-unit {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: #17a2b8c2;
+  color: white;
+  padding: 0 4px;
+  border-radius: 3px;
+}
+
+.food_item_mine {
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 150px;
+  border: 1px solid #dee5e7;
+  border-radius: 2px;
+  box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+}
+
+.img-food-add-order-list-select {
+  margin: 0;
+  padding: 2px;
+  height: 80%;
+}
+
+.text-food-name {
+  height: 20%;
+  height: 20%;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(100 100 100);
+}
+
+.edit_btn_add_order {
+  font-size: 25px;
+  color: coral;
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: unset;
+}
+
+.edit_btn_add_order:hover {
+  color: #1a87a2;
+}
+
+.remove_btn_add_order {
+  font-size: 25px;
+  color: #f36b6b;
+  padding: 0 0 0 3px;
+  margin-left: 4px;
+  border: none;
+  background-color: unset;
+}
+
+.remove_btn_add_order:hover {
+  color: #1a87a2;
+}
+
+.input-quantity {
+  width: 70px;
+  font-size: 20px;
+  padding: 0;
+  font-weight: bold;
+  color: rgb(1, 20, 156);
+  text-align: center;
+  background-color: white;
+  border: 1px solid #cfcfcf;
+}
+
+.input-quantity::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.btn-operater-mine {
+  color: #58666e !important;
+  background-color: #fff;
+  font-size: 10px;
+  padding: 9px;
+  border: 1px solid #cfcfcf;
+}
+
+.text-name-food-addOrder {
+  font-weight: 600;
+  color: #5f5f5f;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.text-price-unit-food-addOrder {
+  font-size: 16px;
+  font-weight: 400;
+  color: #6a6a6a;
+}
+
+.text-detail-food-addOrder {
+  font-size: 14px;
+  font-weight: 400;
+  color: #002eff;
+  width: calc(100% - 30px);
+}
+
+.text-total-food-addOrder {
+  font-size: 16px;
+  font-weight: 600;
+  color: #5f5f5f;
+}
+
+/* @media (min-width: 576px) {
+  .modal-mine-add-order {
+    max-width: 100%!important;
+    margin: 0 auto;
+  }
+} */
+
+.text-notification-type {
+  font-size: 24px;
+  font-weight: 500;
+  color: #4e4e4e;
+}
+
+#notification_mine:first-child {
+  background-color: #0000008a;
+}
+
+.num_money_txt {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000000;
+}
+
+.img_QRcode_payment {
+  width: 250px;
+  height: 250px;
+}
+
+.input_zone_number_remove_rrows::-webkit-outer-spin-button,
+.input_zone_number_remove_rrows::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.table_number_remover_arrows::-webkit-outer-spin-button,
+.table_number_remover_arrows::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#add_full_food_price::-webkit-outer-spin-button,
+#add_full_food_price::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#add_food_price::-webkit-outer-spin-button,
+#add_food_price::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.price-edit-food-none-arrows::-webkit-outer-spin-button,
+.price-edit-food-none-arrows::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.discount-line {
+  text-decoration: line-through;
+  font-size: 14px;
+}
+
+.input_number_none_arrows::-webkit-outer-spin-button,
+.input_number_none_arrows::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.img_icon_date_now {
+  width: 40px;
+}
+
+.title-report-date-now {
+  font-size: 16px;
+  font-weight: 700;
+  color: #323232;
+  margin-left: 8px;
+}
+
+.date_now {
+  font-size: 16px;
+  font-weight: 500;
+  color: #838383;
+}
+
+.img_icon_salary {
+  position: absolute;
+  right: 4px;
+  top: 10%;
+  width: 90px;
+  z-index: 0;
+}
+
+.box-sales {
+  position: relative;
+  padding: 20px;
+  border-radius: 0 0 0 2px;
+  background-color: #55dc6c;
+  box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+}
+
+.box-sales-2 {
+  position: relative;
+  padding: 20px;
+  background-color: #556cdc;
+  box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+}
+
+.box-sales-3 {
+  position: relative;
+  padding: 20px;
+  border-radius: 0 0 2px 0;
+  background-color: #ff7575;
+  box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+}
+
+.box-sales-4 {
+  position: relative;
+  padding: 20px;
+  border-radius: 0 0 2px 0;
+  background-color: #ff3b3b;
+  box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+}
+
+.total_income {
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+  z-index: 1;
+}
+
+.income_date {
+  font-size: 16px;
+  color: white;
+  z-index: 1;
+}
+
+.bg-mine-navmenu {
+  width: 100%;
+  height: 100%;
+  background-color: #e9e9e9;
+  border-right: 1px solid #dddddd;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
+
+.bg-light {
+  color: #58666e;
+  background-color: #edf1f2;
+}
+
+.title_name_nav {
+  cursor: pointer;
+  font-size: 16px;
+  color: #666666;
+  box-shadow: 0 1px 0 0 #dddddd;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title_name_nav:hover {
+  color: #474747;
+  font-weight: 600;
+  background-color: rgb(207 207 207);
+}
+
+.active-nav-mine {
+  background-color: rgb(207 207 207);
+  color: #474747;
+  font-weight: 600;
+}
+
+/* .hbox {
+  display: table;
+  width: 100%;
+  height: 100%;
+  table-layout: fixed;
+} */
+
+.title_report_1 {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #696969;
+  font-weight: 500;
+}
+
+.text-date-search {
+  font-size: 16px;
+  font-weight: 700;
+  color: #3a3a3a;
+}
+
+.text-sum-list {
+  font-size: 16px;
+  font-weight: 700;
+  color: #3a3a3a;
+  margin: 10px;
+}
+
+.bg-top {
+  background-color: burlywood;
+}
+
+.bg-top1 {
+  background-color: lightsteelblue;
+}
+
+.text-day {
+  font-weight: 600;
+}
+
+.text-discription {
+  font-size: 16px;
+  color: #404040;
+}
+
+.title_table_top10 {
+  font-size: 14px;
+  font-weight: 700;
+  color: black;
+}
+
+.bg_finish {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #bcbcbcad;
+  border-radius: 2px;
+  width: 100%;
+  height: 80%;
+}
+
+.text_finish {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1b1b1b;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 80%;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-cancal-food-order {
+  padding: 0 4px;
+  font-size: 14px;
+}
+
+.img-plan-table {
+  height: 383px;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  position: relative;
+}
+
+/* ปฏิทิน */
+.datepicker-inline {
+  width: 100% !important;
+}
+
+/* รายจ่าย */
+.text-date-expense {
+  font-size: 20px;
+  font-weight: 600;
+  color: #646464;
+  padding-right: 20px;
+}
+
+#title_expense:focus {
+  outline: none;
+}
+
+.show_date_input_2 {
+  display: none;
+}
+
+.bg-expense {
+  background-color: #3a97af;
+  height: 120px;
+}
+
+.number-amount-expense {
+  font-size: 24px;
+  font-weight: 600;
+  color: white;
+}
+
+.text-amount-expense {
+  color: #2f2f2f;
+}
+
+.txt-number-circulation {
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+
+.btn-click-show-detail {
+  cursor: pointer;
+}
+
+.btn-click-show-detail:hover {
+  background-color: rgb(245, 234, 255);
+}
+
+.btn-click-show-detail-food-report-3 {
+  cursor: pointer;
+  border-bottom: 1px solid #deb887;
+  background-color: wheat;
+}
+
+.btn-click-show-detail-food-report-3:hover {
+  background-color: rgb(245, 234, 255);
+}
+
+@media (max-width: 1024px) {
+  .brder-mine-tatle {
+    height: 70px;
+    font-size: 18px;
+  }
+
+  .brder-mine-tatle-2 {
+    height: 70px;
+    font-size: 18px;
+  }
+
+  .text-top-title-1 {
+    font-size: 12px;
+  }
+
+  .text-top-title-2 {
+    font-size: 14px;
+  }
+
+  .text-top-title-2 {
+    font-size: 12px;
+    padding: 0 4px;
+  }
+
+  .btn-cancal-food-order {
+    padding: 0 4px;
+    font-size: 12px;
+  }
+
+  .img-plan-table {
+    height: 317px;
+  }
+
+  .img-food-add-order-list-select {
+    height: 70%;
+  }
+
+  .text-food-name {
+    height: 30%;
+    font-size: 14px;
+  }
+
+  .display_none_1024 {
+    display: none;
+  }
+
+  .text-discription {
+    font-size: 14px;
+  }
+
+  .show_date_input_2 {
+    display: unset;
+  }
+
+  .text-date-expense {
+    display: none;
+  }
+
+  .img_icon_salary {
+    width: 70px;
+    right: 5px;
+    top: 14%;
+    opacity: 0.8;
+  }
+
+  .total_income {
+    font-size: 26px;
+    text-shadow: 1px 1px 2px #040404;
+  }
+
+  .box-sales-2 {
+    padding: 20px 10px;
+  }
+
+  .box-sales-3 {
+    padding: 20px 10px;
+  }
+
+  .box-sales-4 {
+    padding: 20px 10px;
+  }
+
+  .income_date {
+    font-size: 14px;
+    text-shadow: 1px 1px 2px #040404;
+  }
+
+  .txt-number-circulation {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  .txt-print-circulation {
+    font-size: 16px;
+  }
+
+  .text-discription-top10 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 576px) {
+  .modal-dialog-transfet-table {
+    max-width: 700px !important;
+    margin: 1.75rem auto !important;
+  }
+
+  .mondal-dialog-check-bill {
+    max-width: 550px !important;
+  }
+}
+
+.upload-img {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  background: #229bb9;
+  color: white;
+  padding: 0 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
